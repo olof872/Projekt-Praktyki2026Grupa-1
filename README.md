@@ -44,3 +44,25 @@ Daniil Vorotynskyj
 • 28.10.2026 -
 • 29.10.2026 -
 • 30.10.2026 -
+Wiktor Sachanowicz
+05.10.2026-Szkolenie z zakresu BHP, lekcja organizacyjno-zapoznawcza.
+06.10.2026-Zapoznanie się z wymaganiami projektu, analiza założeń projektu oraz określanie jego funkcjonalności i zakresu prac.
+07.10.2026-Zapoznanie się z technologiami potrzebnymi do wykonania projektu LLM-y ollama oraz wybieranie technologii która dobrze komunikuje się z ollama
+08.10.2026- Zainstalowanie środowiska ollama oraz środowiska zarzadzajacego pakietami PHP composer przeszkolenie w zakresie łączenia biblioteki  PHP z ollamą
+09.10.2026- Otrzymanie pierwszego zadania od opiekuna praktyk czyli stworzenie strony pozwalającej na podgląd plikow txt oraz pdf przydzielenie zadań przez lidera projektu otrzymane zadanie testera i koordynatora wyników pracy nad frontendem i backendem strony wykonywanej przez resztę grupy oraz poprawianie ewentualnych błędow projektu.
+12.10.2026- Przygotowywanie stanowiska do rozpoczęcia projektu.
+13.10.2026-Tworzenie struktury stron internetowych w HTML, Formatowanie tresci i elementow strony, Tworzenie skryptow w jezyku PHP, Obsluga formularzy i przetwarzanie danych
+14.10.2026-konczenie pracy nad kodem strony, wspolna praca zespołu na rozmowie rozmawianie o napotkanych bledach przy pisaniu kodu, pierwszy test strony i naprawa bledow.
+15.10.2026 Ostatnie poprawki i testy w kodzie strony wyswietlajacej pliki txt i pdf oraz  przygotowanie i uzupełnienie dokumentacji projektu grupy.
+ 16.10.2026 -
+19.10.2026 -
+20.10.2026 -
+21.10.2026 -
+22.10.2026 -
+23.10.2026 -
+ 26.10.2026 -
+ 27.10.2026 -
+28.10.2026 -
+ 29.10.2026 -
+ 30.10.2026 -
+
