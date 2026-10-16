@@ -44,6 +44,9 @@ Daniil Vorotynskyj
 • 28.10.2026 -
 • 29.10.2026 -
 • 30.10.2026 -
+
+
+
 Wiktor Sachanowicz
 05.10.2026-Szkolenie z zakresu BHP, lekcja organizacyjno-zapoznawcza.
 06.10.2026-Zapoznanie się z wymaganiami projektu, analiza założeń projektu oraz określanie jego funkcjonalności i zakresu prac.
