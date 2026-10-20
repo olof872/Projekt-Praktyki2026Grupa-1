@@ -33,8 +33,8 @@ Daniil Vorotynskyj
 • 13.10.2026 - Kodowanie układu graficznego strony w HTML i CSS. Implementacja siatki .cards z użyciem technologii CSS Grid do równego rozmieszczenia paneli, projektowanie wyglądu strefy przeciągania plików (.drop-zone) z przerywaną ramką oraz tworzenie stylów dla okna podglądu tekstu .preview z użyciem czcionki o stałej szerokości znaków (Monospace).
 • 14.10.2026 - Integracja gotowych stylów CSS i struktury HTML z kodem backendowym reszty zespołu. Praca nad wizualnymi stanami przycisków (:hover) i strefy upuszczania plików (.drop-zone.active) po wykryciu pliku. Wspólne usuwanie błędów z nachodzeniem na siebie elementów i debugowanie układu frontendu.
 • 15.10.2026 - Implementacja stylów dla odtwarzacza plików PDF (#pdfPreview) oraz sekcji komunikatów o błędach (.error). Napisanie reguł responsywnych (@media (max-width: 700px)) zapewniających płynne działanie strony i układ jednokolumnowy na telefonach komórkowych. Przygotowanie dokumentacji kodu CSS.
-• 16.10.2026 -
-• 19.10.2026 -
+• 16.10.2026 - Analiza wymagań projektu i zaplanowanie nowych funkcji aplikacji 
+• 19.10.2026 - Przygotowanie opcji ręcznego zatwierdzania zmian: „Usuń” i „Zostaw”. Dodanie nawigacji pomiędzy wykryciami za pomocą przycisków „Back” i „Next”
 • 20.10.2026 -
 • 21.10.2026 -
 • 22.10.2026 -
