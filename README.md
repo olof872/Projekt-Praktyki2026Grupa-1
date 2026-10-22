@@ -57,10 +57,11 @@ Wiktor Sachanowicz
 13.10.2026-Tworzenie struktury stron internetowych w HTML, Formatowanie tresci i elementow strony, Tworzenie skryptow w jezyku PHP, Obsluga formularzy i przetwarzanie danych
 14.10.2026-konczenie pracy nad kodem strony, wspolna praca zespołu na rozmowie rozmawianie o napotkanych bledach przy pisaniu kodu, pierwszy test strony i naprawa bledow.
 15.10.2026 Ostatnie poprawki i testy w kodzie strony wyswietlajacej pliki txt i pdf oraz  przygotowanie i uzupełnienie dokumentacji projektu grupy.
- 16.10.2026 -
-19.10.2026 -
-20.10.2026 -
-21.10.2026 -
+ 16.10.2026 - Analiza wymagań projektu i zaplanowanie nowych funkcji aplikacji 
+19.10.2026 -• utworzenie przypisów i scenariuszy testowych dla wyszukiwarki ciągów znaków oraz walidatora błędów
+
+20.10.2026 -analiza specyfikacji i makiet projektu pod kątem niespójności logicznych w wyszukiwarce
+21.10.2026 -przygotowanie bazy tekstów z trudnymi przypadkami (znaki arabskie, emotikony, kropki nienawiści, brak spacji, kody HTML, testowanie front endu
 22.10.2026 -
 23.10.2026 -
  26.10.2026 -
