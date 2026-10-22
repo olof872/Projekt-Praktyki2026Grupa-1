@@ -13,9 +13,9 @@ Filip Rozbicki
 15.10.2026 - Poprawki i polaczenie kodu, stworzenie dokumentacji na temat projektu. Nadzor koncowych testow i podsumowanie projektu o stronie do podgladu plikow TXT i pdf. Zapoznanie sie ze sposobami integracji Ollama API z jezykiem PHP oraz poznanie metod wysylania zapytan i odbierania odpowiedzi z modelu jezykowego.
 16.10.2026 - Analiza wymagań projektu i zaplanowanie nowych funkcji aplikacji, Przygotowanie obsługi plików TXT i PDF z wykorzystaniem PHP oraz JavaScript. Planowanie funkcji i podział zadań. Zaplanowanie mechanizmu wykrywania określonych ciągów znaków w tekście: aaa, yy oraz ee.
 19.10.2026 - Implementacja mechanizmu wyszukiwania wskazanych ciągów znaków. Dodanie podglądu wykrytych fragmentów i kontekstu tekstowego. 
-20.10.2026 - usprawnienie ręcznej analizy transkrypcji tekstowych, rozpoczecie pisania dokumentacji podprojektu.
-21.10.2026 - 
-22.10.2026 -
+20.10.2026 - Podzieliłem zadania w zespole i ustaliłem strukturę projektu oraz technologie (PHP, JavaScript, Ollama), Napisałem backend ollama.php, który komunikuje się z lokalnym serwerem Ollama przez cURL. Zaimplementowałem sprawdzanie połączenia z Ollamą i obecności modelu Bielik. Napisałem obsługę wgrywania plików w PHP: kontrola formatu, rozmiaru i typu MIME.
+21.10.2026 - Stworzyłem funkcję analizy języka: wysyłanie zdań do modelu i odbiór wyników w formacie JSON. Zabezpieczyłem backend: walidacja danych wejściowych, limity długości, obsługa błędów, ochrona przed prompt injection. 
+22.10.2026 - Połączyłem pracę frontendu z backendem i odebrałem poprawki od testera. Zaprogramowałem w JavaScript wykrywanie powtórzonych liter (regex) i dzielenie tekstu na zdania. Zakonczylem projektowanie dokumentacji
 23.10.2026 -
 26.10.2026 -
 29.10.2026 -
