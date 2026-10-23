@@ -36,8 +36,10 @@ Daniil Vorotynskyj
 • 16.10.2026 - Analiza wymagań projektu i zaplanowanie nowych funkcji aplikacji 
 • 19.10.2026 - Przygotowanie opcji ręcznego zatwierdzania zmian: „Usuń” i „Zostaw”. Dodanie nawigacji pomiędzy wykryciami za pomocą przycisków „Back” i „Next”
 • 20.10.2026 - Dokończenie implementacji panelu kontrolnego (przycisków „Usuń”, „Zostaw”, „Back”, „Next”) i powiązanie ich z widokiem kontekstu tekstowego. Ostylowanie podświetleń (highlighting) wykrytych fraz aaa, yy oraz ee w oknie podglądu.
-• 21.10.2026 - Implementacja obsługi zdarzeń klawiatury (np. strzałki do nawigacji Back/Next) w JavaScript w celu przyspieszenia pracy użytkownika. Przygotowanie asynchronicznych zapytań (Fetch API) do backendu, umożliwiających zapisywanie decyzji bez przeładowywania strony.
-• 22.10.2026 -
+• 21.10.2026 - Zaprojektowałem układ strony głównej w HTML i CSS: nagłówek, dwie karty (wybór pliku i przeciąganie) oraz sekcję podglądu. Ostylowałem strefę drag & drop, w tym efekt podświetlenia przy przeciąganiu pliku (.drop-zone.active).
+Stworzyłem wspólny arkusz stylów dla trzech podstron: pasek nawigacji, przyciski i kolory.
+• 22.10.2026 -  Zrobiłem stylowanie panelu przeglądania wyników: licznik, etykieta wykrytego języka, pole z kontekstem zdania. Dodałem style komunikatów (sukces, błąd, status połączenia) w różnych kolorach.
+Dostosowałem stronę do telefonów za pomocą media queries. Połączyłem ze sobą podstrony (przyciski „Stutter Checker →" i „Language Checker →").
 • 23.10.2026 -
 • 26.10.2026 -
 • 27.10.2026 -
