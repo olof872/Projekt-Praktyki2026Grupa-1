@@ -16,8 +16,9 @@ Filip Rozbicki
 20.10.2026 - Podzieliłem zadania w zespole i ustaliłem strukturę projektu oraz technologie (PHP, JavaScript, Ollama), Napisałem backend ollama.php, który komunikuje się z lokalnym serwerem Ollama przez cURL. Zaimplementowałem sprawdzanie połączenia z Ollamą i obecności modelu Bielik. Napisałem obsługę wgrywania plików w PHP: kontrola formatu, rozmiaru i typu MIME.
 21.10.2026 - Stworzyłem funkcję analizy języka: wysyłanie zdań do modelu i odbiór wyników w formacie JSON. Zabezpieczyłem backend: walidacja danych wejściowych, limity długości, obsługa błędów, ochrona przed prompt injection. 
 22.10.2026 - Połączyłem pracę frontendu z backendem i odebrałem poprawki od testera. Zaprogramowałem w JavaScript wykrywanie powtórzonych liter (regex) i dzielenie tekstu na zdania. Zakonczylem projektowanie dokumentacji
-23.10.2026 -
-26.10.2026 -
+23.10.2026 -Przeanalizowałem wymagania dotyczące stenogramu i zaplanowałem potok: tekst, model, lista ustaleń, drugi model, JSON
+26.10.2026 - Napisałem akcję protocol_extract w ollama.php: prompt wyciągający tematy, decyzje, zadania i otwarte pytania, razem z korektą błędów rozpoznawania mowy.
+27.10.2026 - Dodałem akcję protocol_merge, regułę „nie zmyślaj“ w promptach i czyszczenie wyniku z pustych punktorów i tabulatorów.
 29.10.2026 -
 30.10.2026 -
 
