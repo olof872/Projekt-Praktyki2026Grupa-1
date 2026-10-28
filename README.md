@@ -44,7 +44,7 @@ Dostosowałem stronę do telefonów za pomocą media queries. Połączyłem ze s
 23.10.2026 - Pracowałem nad frontendem. Przejrzałem kod HTML i CSS wszystkich podstron, sprawdziłem wygląd w przeglądarce i poprawiłem style, żeby strony wyglądały spójnie.
 26.10.2026 - Przygotowałem strukturę HTML podstrony protokołu: wybór pliku, pole komunikatów, panel z wynikiem i przyciski pobierania.
 27.10.2026 - Ostylowałem w CSS panel protokołu i tabelę zadań. Dodałem style do wydruku (@media print) i linki do nowej podstrony w menu.
-• 28.10.2026 -
+• 28.10.2026 - Testowanie kodu HTML/CSS, porządkowanie plików projektu i podsumowanie prac frontendowych.
 • 29.10.2026 -
 • 30.10.2026 -
 
