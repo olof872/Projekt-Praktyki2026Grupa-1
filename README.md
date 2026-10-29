@@ -71,6 +71,6 @@ Wiktor Sachanowicz
  26.10.2026 -26.10.2026 - Przygotowanie plikow testowych (stenogram z błędami ASR, tekst bez decyzji, pusty plik, PDF) i przeprowadził pierwsze testy generowania protokołu. (byly znalezione bledy i przekazane liderowi projektu 
  27.10.2026 -Testowanie aplikację w przeglądarce i zgłaszanie zespołowi błedow naprawa połączenia bielika w generowaniu protokołu.
 28.10.2026 -Ostatnie testy projektu, Udział w dyskusji zespołowej dotyczącej przebiegu prac, napotkanych problemów, zastosowanych rozwiązań oraz możliwości dalszego rozwoju projektu.
- 29.10.2026 -
+ 29.10.2026 - Dodanie kilku rzeczy do protokołu i dokumentacji po poradach opiekuna praktyk
  30.10.2026 -
 
