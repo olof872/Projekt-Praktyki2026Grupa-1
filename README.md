@@ -66,11 +66,11 @@ Wiktor Sachanowicz
 
 20.10.2026 -analiza specyfikacji i makiet projektu pod kątem niespójności logicznych w wyszukiwarce
 21.10.2026 -przygotowanie bazy tekstów z trudnymi przypadkami (znaki arabskie, emotikony, kropki nienawiści, brak spacji, kody HTML, testowanie front endu
-22.10.2026 -
-23.10.2026 -
- 26.10.2026 -
- 27.10.2026 -
-28.10.2026 -
+22.10.2026 -testowanie pełnej strony naprawa połączenia z ollamą wypełnienie dokumentacji w zakresie testow projektu.
+23.10.2026 -Brak możliwosci pracy ze wzgledu na pólmetek.
+ 26.10.2026 -26.10.2026 - Przygotowanie plikow testowych (stenogram z błędami ASR, tekst bez decyzji, pusty plik, PDF) i przeprowadził pierwsze testy generowania protokołu. (byly znalezione bledy i przekazane liderowi projektu 
+ 27.10.2026 -Testowanie aplikację w przeglądarce i zgłaszanie zespołowi błedow naprawa połączenia bielika w generowaniu protokołu.
+28.10.2026 -Ostatnie testy projektu, Udział w dyskusji zespołowej dotyczącej przebiegu prac, napotkanych problemów, zastosowanych rozwiązań oraz możliwości dalszego rozwoju projektu.
  29.10.2026 -
  30.10.2026 -
 
