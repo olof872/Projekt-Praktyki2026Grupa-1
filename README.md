@@ -20,8 +20,8 @@ Filip Rozbicki
 26.10.2026 - Napisałem akcję protocol_extract w ollama.php: prompt wyciągający tematy, decyzje, zadania i otwarte pytania, razem z korektą błędów rozpoznawania mowy.
 27.10.2026 - Dodałem akcję protocol_merge, regułę „nie zmyślaj“ w promptach i czyszczenie wyniku z pustych punktorów i tabulatorów.
 28.10.2026 -  Opracowanie i ukończenie dokumentacji technicznej projektu, przygotowanie oraz przekazanie gotowej paczki ZIP z aplikacją do testera w celu weryfikacji poprawności działania. Udział w dyskusji zespołowej dotyczącej przebiegu prac, napotkanych problemów, zastosowanych rozwiązań oraz możliwości dalszego rozwoju projektu
-29.10.2026 -
-30.10.2026 -
+29.10.2026 - Przygotowanie zespołowe do oddania projektu, sprawdzenie poprawności działania aplikacji, weryfikacja kompletności dokumentacji i omówienie funkcjonalności projektu i zastosowanych technologii.
+30.10.2026 - Finalne podsumowanie realizacji projektu, analiza zdobytych doświadczeń oraz omówienie wykorzystanych technologii i napotkanych problemów. Uporządkowanie plików projektowych i dokumentacji oraz zakończenie prac nad aplikacją oraz prezentacja efektów wykonanej pracy.
 
 
 
